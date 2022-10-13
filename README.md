@@ -1,4 +1,4 @@
-
+```js
 🥀 class 🦅 abdalla 🏡 extends MyLife{
     constructor(name, age, skills) {
         super(name, age, skills)
@@ -18,7 +18,7 @@
         }
 }
 
-
+```
 
 <!---
 abdalla-yahia/abdalla-yahia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
