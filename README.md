@@ -2,10 +2,10 @@
 🥀 const My_Information ={
     
          🏡 name :🥇 "Abdalla Yahia Kamel",
-          🕌  age : ✈️35,
+          🕌  age : ✈️36,
           🏬  skills : {
-            Frontend: ['Html', 'Css', 'Javascript', 'React','Bootstrap'],
-            Backend: ['PhP','Nodejs', 'Express', "MongoDB", 'Postgres','Mysql'],
+            Frontend: ['Html', 'Css', 'Javascript', 'React Js','Next Js','Bootstrap','Tailwind'],
+            Backend: ['Nodejs', 'Express', "MongoDB", 'Postgres','Mysql'],
             ForCleanCode: ['Prettere', 'Eslint'],
             OtherSkills:['Git&Github','Json','Api','Aws']
             }
