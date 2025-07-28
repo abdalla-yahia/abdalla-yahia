@@ -1,9 +1,10 @@
 <h1 align="center">✨ Abdalla Yahia ✨</h1>
 
-<p align="center">
-  <b>Front-End Web Developer</b> 👨‍💻<br/>
-  <i>Specialized in building high-performance web applications using React.js, Next.js, and TypeScript.</i>
-</p>
+<div align="center">
+👨‍💻 <strong>Front-End Web Developer</strong>  
+💡 Specialized in building high-performance web applications using React.js, Next.js, and TypeScript.  
+📍 Based in Beni Suef, Egypt  
+</div>
 
 ---
 
@@ -34,21 +35,16 @@ const My_Information = {
 📊 Admin Dashboard – Admin control panel with statistics and full CRUD
 
 📜 Certificates
-✅ React Testing – Udacity
+🟢 React Testing – Udacity
 
-✅ Front-End with REST API – Udacity
+🟢 Front-End with REST API – Udacity
 
-✅ Full Stack with AWS – Udacity
+🟢 Full Stack with AWS – Udacity
 
-🔗 Contact Me
-<p align="center"> <a href="https://www.facebook.com/ABOOOOOOOOOODD" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/1200px-Facebook_New_Logo_%282015%29.svg.png" alt="Facebook" width="120"/> </a> <a href="https://x.com/Abdalla_yahia_" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" width="120"/> </a> <a href="https://www.linkedin.com/in/abdalla-yahia/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="120"/> </a> </p>
-📫 Get in Touch
+📫 Contact Me
+<table align="center"> <tr> <td align="center"> <a href="https://www.facebook.com/ABOOOOOOOOOODD"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> </td> <td align="center"> <a href="https://x.com/Abdalla_yahia_"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </td> <td align="center"> <a href="https://www.linkedin.com/in/abdalla-yahia/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </td> </tr> </table>
 📧 Email: abdallayahia75@gmail.com
-
 📱 Phone: +2012-111-00554
-
 💼 LinkedIn: linkedin.com/in/abdalla-yahia
-
 🧑‍💻 GitHub: github.com/abdalla-yahia
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9C449,100:F98F00&height=140&section=footer"/> </p> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=F9C449&height=120&section=footer"/> </div> ```
