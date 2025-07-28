@@ -41,10 +41,18 @@ const My_Information = {
 
 🟢 Full Stack with AWS – Udacity
 
-📫 Contact Me
-<table align="center"> <tr> <td align="center"> <a href="https://www.facebook.com/ABOOOOOOOOOODD"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> </td> <td align="center"> <a href="https://x.com/Abdalla_yahia_"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </td> <td align="center"> <a href="https://www.linkedin.com/in/abdalla-yahia/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </td> </tr> </table>
-📧 Email: abdallayahia75@gmail.com
-📱 Phone: +2012-111-00554
-💼 LinkedIn: linkedin.com/in/abdalla-yahia
-🧑‍💻 GitHub: github.com/abdalla-yahia
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=F9C449&height=120&section=footer"/> </div> ```
+🔗 Contact Me
+Facebook
+
+Twitter / X
+
+LinkedIn
+
+GitHub
+
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript, React.js, Next.js, Tailwind, Bootstrap
+Backend: Node.js, Express, PostgreSQL, MongoDB, Prisma
+State Management: Redux, Redux Toolkit
+Other Tools: Git, GitHub, JSON, REST API, AWS, Prettier, ESLint
+
