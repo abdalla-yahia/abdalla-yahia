@@ -41,6 +41,14 @@ const My_Information = {
 
 🟢 Full Stack with AWS – Udacity
 
+
+
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript, React.js, Next.js, Tailwind, Bootstrap
+Backend: Node.js, Express, PostgreSQL, MongoDB, Prisma
+State Management: Redux, Redux Toolkit
+Other Tools: Git, GitHub, JSON, REST API, AWS, Prettier, ESLint
+```
 🔗 Contact Me
 
 <a href='https://www.facebook.com/ABOOOOOOOOOODD'>
@@ -53,11 +61,3 @@ const My_Information = {
 <a href='https://www.linkedin.com/in/abdalla-yahia/'>
 <img  src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png' width='180' height='80'/>
 </a>
-
-
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript, React.js, Next.js, Tailwind, Bootstrap
-Backend: Node.js, Express, PostgreSQL, MongoDB, Prisma
-State Management: Redux, Redux Toolkit
-Other Tools: Git, GitHub, JSON, REST API, AWS, Prettier, ESLint
-
