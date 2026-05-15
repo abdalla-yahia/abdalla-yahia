@@ -1,20 +1,20 @@
+# ✨ Abdalla Yahia
+
 <div align="center">
 
-# ✨ Abdalla Yahia ✨
+### Frontend Engineer | React & Next.js Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Building+Scalable+Modern+Web+Apps;Clean+Code+%2B+High+Performance+UI" />
+💻 Building scalable and high-performance web applications  
+⚡ Specialized in React.js, Next.js, TypeScript & Modern UI Architecture  
+📍 Beni Suef, Egypt
 
 <br/>
 
-<img src="https://img.shields.io/badge/Role-Frontend%20Engineer-0A66C2?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-React%20%7C%20Next.js-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Egypt-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Clean+Code+%26+High+Performance" />
 
-<br/><br/>
+<br/>
 
-💻 Passionate about building scalable, high-performance, and user-focused web applications.  
-🚀 Specialized in modern Frontend architecture using React.js, Next.js, TypeScript, and advanced UI systems.  
-⚡ Focused on clean code, performance optimization, responsive design, and enterprise-grade SaaS dashboards.  
+![Profile Views](https://komarev.com/ghpvc/?username=abdalla-yahia&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -31,19 +31,10 @@ const abdallaYahia = {
 
   specialization: [
     "Frontend Architecture",
-    "Modern React Ecosystem",
+    "React Ecosystem",
     "Performance Optimization",
     "Responsive UI/UX",
-    "Enterprise SaaS Dashboards"
-  ],
-
-  currentlyWorkingWith: [
-    "React.js",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS",
-    "Redux Toolkit",
-    "Node.js"
+    "Enterprise Dashboards"
   ],
 
   techStack: {
@@ -73,139 +64,101 @@ const abdallaYahia = {
       "Context API"
     ],
 
-    authentication: [
-      "JWT",
-      "Bcrypt.js"
-    ],
-
     tools: [
       "Git",
       "GitHub",
       "REST APIs",
       "AWS",
+      "Vite",
       "ESLint",
-      "Prettier",
-      "Vite"
+      "Prettier"
     ]
-  },
-
-  mindset: [
-    "Clean Code",
-    "Scalable Architecture",
-    "Pixel Perfect UI",
-    "Performance First",
-    "Continuous Learning"
-  ]
+  }
 }
-
----
-
-🚀 Featured Projects
-
-⚡ Islamic Platform
-
-«Advanced Islamic platform built with Next.js 15 using SSR architecture for high performance and SEO optimization.»
-
-🛍️ Happy Shop
-
-«Full-featured E-Commerce platform with authentication, admin dashboard, product management, and scalable architecture.»
-
-🎬 Reval Movies
-
-«Modern movie discovery platform with trailers, advanced filtering, search, and responsive UI.»
-
-📊 Admin Dashboard
-
-«Enterprise-grade dashboard with analytics, statistics, authentication system, and full CRUD operations.»
-
----
-
-🛠️ Tech Stack
-
-<div align="center">Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma" />Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vite" /></div>---
-
-📜 Certifications
-
-🏆 React Testing — Udacity
-🏆 Front-End Development with REST APIs — Udacity
-🏆 Full Stack Development with AWS — Udacity
-
----
-
-📈 GitHub Stats
-
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/></div>---
-
-🌍 Connect With Me
-
-<div align="center"><a href="https://www.linkedin.com/in/abdalla-yahia/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://x.com/Abdalla_yahia_" target="_blank">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a><a href="https://www.facebook.com/ABOOOOOOOOOODD" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a></div>---
-
-<div align="center">💡 “Great products are built with clean architecture, performance, and attention to detail.”
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" /></div>
 ```
-🚀 Featured Projects
-⚡ Islamic Platform
-Advanced Islamic platform built with Next.js 15 using SSR architecture for high performance and SEO optimization.
-🛍️ Happy Shop
-Full-featured E-Commerce platform with authentication, admin dashboard, product management, and scalable architecture.
-🎬 Reval Movies
-Modern movie discovery platform with trailers, advanced filtering, search, and responsive UI.
-📊 Admin Dashboard
-Enterprise-grade dashboard with analytics, statistics, authentication system, and full CRUD operations.
-🛠️ Tech Stack
-�
 
-Frontend
-�
-￼
-Backend & Database
-�
-￼
-Tools & Workflow
-�
-￼
-�
+---
 
-📜 Certifications
-🏆 React Testing — Udacity
-🏆 Front-End Development with REST APIs — Udacity
-🏆 Full Stack Development with AWS — Udacity
-📈 GitHub Stats
-�
+# 🚀 Featured Projects
 
-�
-￼
-�
-￼
-�
+### ⚡ Islamic Platform
+Advanced Islamic platform built with Next.js using SSR architecture and SEO optimization.
 
-🌍 Connect With Me
-�
+### 🛍️ Happy Shop
+Modern E-Commerce platform with authentication, admin dashboard, and product management.
 
-�
-￼ 
-�
-￼ 
-�
-￼ 
-�
+### 🎬 Reval Movies
+Movie discovery platform with trailers, search, filtering, and responsive UI.
 
-�
+### 📊 Admin Dashboard
+Enterprise dashboard with analytics, authentication, and full CRUD operations.
 
-💡 “Great products are built with clean architecture, performance, and attention to detail.”
-�
-￼
-```
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+# 📜 Certifications
+
+🏆 React Testing — Udacity  
+🏆 Front-End Development with REST APIs — Udacity  
+🏆 Full Stack Development with AWS — Udacity  
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdalla-yahia&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalla-yahia&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdalla-yahia/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/Abdalla_yahia_" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/ABOOOOOOOOOODD" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Clean Code • Scalable Architecture • High Performance
+
+</div>
